@@ -17,7 +17,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 
-# html minify
+# html minify 
 compress_html:
   clippings: all
   comments: all
@@ -28,7 +28,7 @@ compress_html:
 links:
   section_1:
     - title: home
-      url: 
+      url: ""
       key_trigger: 1
     - title: my posts
       url: /posts
