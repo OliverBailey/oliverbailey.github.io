@@ -2,7 +2,7 @@
 title: Oliver Bailey
 description: "A simple webpage for myself"
 baseurl: "/" # for test: remove string '/example-url' to ''
-url: ""
+url: "https://oliverbailey.github.io/"
 
 # User settings
 username: Oliver Bailey
