@@ -1,7 +1,7 @@
 # Site settings
 title: Oliver Bailey
 description: "A simple webpage for myself"
-baseurl: "/home" # for test: remove string '/example-url' to ''
+baseurl: "/" # for test: remove string '/example-url' to ''
 url: "www.oliverbailey.github.io"
 
 # User settings
