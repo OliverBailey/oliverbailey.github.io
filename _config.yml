@@ -49,7 +49,7 @@ links:
       key_trigger: g
     - title: gists
       url: https://gist.github.com/OliverBailey/
-      key_trigger: ""  
+      key_trigger: "t"  
     - title: search
       url: ""
       key_trigger: s #WARNING: search only works with "s"
