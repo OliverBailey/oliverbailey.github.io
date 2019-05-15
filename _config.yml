@@ -47,6 +47,9 @@ links:
       url: https://www.github.com/oliverbailey
       new_tab: true
       key_trigger: g
+    - title: gists
+      url: https://gist.github.com/OliverBailey/
+      key_trigger: ""  
     - title: search
       url: ""
       key_trigger: s #WARNING: search only works with "s"
@@ -55,8 +58,8 @@ links:
 projects:
   - name: public_site_setup
     url: https://github.com/OliverBailey/oliverbailey.github.io
-  #- name: vim-frontend
-   # url: https://github.com/victorvoid/vim-frontend
+  - name: gists
+    url: https://gist.github.com/OliverBailey/
   #- name: generator-capybara
     #url: https://github.com/victorvoid/generator-capybara 
 
