@@ -10,7 +10,7 @@ categories:
 - blog, AWS_Migration, Devops
 ---
 
-## Quarantine and progress
+## Brief summary
 
 <p>
 A lot has happened over the past few months. Working on our AWS Infrastructure has certainly been a challenge, but something I've been enjoying greatly.
