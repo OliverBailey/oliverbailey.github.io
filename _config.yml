@@ -6,7 +6,7 @@ url: ""
 
 # User settings
 username: Oliver Bailey
-user_title: Technical Support and Infrastructure Manager
+user_title: Devops/Infrasrtucture Engineer
 email: publicsite@obailey.co.uk
 github_username:  OliverBailey
 linkedin_public_url: oliver-bailey-5687349a # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
@@ -14,7 +14,7 @@ profile_picture: https://user-images.githubusercontent.com/8653158/56837661-2010
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+syntax_highlighter: rouge
 permalink: /:title/
 
 # html minify 

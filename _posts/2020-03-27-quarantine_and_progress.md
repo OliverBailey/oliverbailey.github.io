@@ -26,13 +26,15 @@ I think the main issue in regards to it; has been that for each thing that you d
 <br>
 <br>
 </p>
-<p>
+
 
 ### Notable things that have been done
 
 - Terraform to describe all of our infrastructure. The most painful part was trying to get transcoding working correctly.
     - A somewhat annoying issue, was trying to get the client_vpn working. Terraform doesn't quite have full support for it yet, so it required hacking the remote state file to get it implemented. Below is a snippet that was implemented into the state file to actually get that working.
-```
+
+
+```json
 resources : [
 ........
 {
@@ -60,7 +62,7 @@ resources : [
 - Codebuild - We've been using codebuild to create all of our application servers, via packer. So I've been pretty busy scripting the entirety of our servers into our Application_packer repo.
     - Definitely been fun, interesting and challenging. Notably, how to get our secrets from AWS_SSM and into a dotenv file. It's a simple(ish) bash loop, which seems to work really well. You can see it below.
 
-```
+```bash
 #!/usr/bin/env bash
 set -x
 #
