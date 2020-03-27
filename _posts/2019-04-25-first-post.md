@@ -15,7 +15,3 @@ categories:
 ## Finally got the website set up
 
 <p> Finally got this up and running. Felt it was finally time to get something set up properly. Just using Ruby/CSS/HTML and Jekyll. Quite a nice, basic site, but gets the job done. </p>
-
----
-Markdown
----

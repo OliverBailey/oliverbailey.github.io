@@ -15,7 +15,3 @@ categories:
 ## Job Promotion
 
 <p>Recently changed job role (Still within the same organisation). Now dealing with DevOps/Infrastructure based things. Pretty interesting and exactly what I wanted to do </p>
-
----
-markdown
----
