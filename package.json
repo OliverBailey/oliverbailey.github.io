@@ -4,7 +4,7 @@
   "description": "My jekyll blog template.",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "test"
+    "preinstall": "npx npm-force-resolutions"
   },
   "keywords": [
     "frontend",
@@ -19,8 +19,8 @@
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-stylus": "^1.0.0",
-    "browser-sync": "^2.26.7",
-    "grunt": "^1.1.0",
+    "browser-sync": "^2.26.10",
+    "grunt": "^1.2.1",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.4.3",
     "gulp-imagemin": "^6.2.0",
@@ -31,6 +31,11 @@
   "dependencies": {
     "jeet": "^7.2.0",
     "kouto-swiss": "^1.1.0",
+    "lodash": "^4.17.19",
     "rupture": "^0.7.1"
+  },
+  "resolutions": {
+    "lodash": "4.17.19",
+    "yargs-parser": "18.1.3"
   }
 }
