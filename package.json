@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "My jekyll blog template.",
   "main": "gulpfile.js",
-  "scripts": {
-    "preinstall": "npx npm-force-resolutions"
-  },
   "keywords": [
     "frontend",
     "blog",
@@ -23,7 +20,7 @@
     "grunt": "^1.2.1",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.4.3",
-    "gulp-imagemin": "^6.2.0",
+    "gulp-imagemin": "^7.1.0",
     "gulp-plumber": "^1.2.1",
     "gulp-stylus": "^2.7.0",
     "gulp-uglify": "^3.0.2"
