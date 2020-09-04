@@ -16,8 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-stylus": "^1.0.0",
-    "browser-sync": "^2.26.10",
-    "grunt": "^1.2.1",
+    "browser-sync": "^2.26.12",
+    "grunt": "^1.3.0",
     "gulp": "^4.0.2",
     "gulp-concat": "^2.4.3",
     "gulp-imagemin": "^7.1.0",
@@ -28,11 +28,12 @@
   "dependencies": {
     "jeet": "^7.2.0",
     "kouto-swiss": "^1.1.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.20",
     "rupture": "^0.7.1"
   },
   "resolutions": {
     "lodash": "4.17.19",
-    "yargs-parser": "18.1.3"
+    "yargs-parser": "18.1.3",
+    "bl": "2.2.1"
   }
 }
