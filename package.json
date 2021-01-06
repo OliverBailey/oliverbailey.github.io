@@ -26,10 +26,12 @@
     "gulp-uglify": "^3.0.2"
   },
   "dependencies": {
+    "bl": "4.0.3",
     "jeet": "^7.2.0",
     "kouto-swiss": "^1.1.0",
-    "lodash": "^4.17.20",
-    "rupture": "^0.7.1"
+    "lodash": "4.17.20",
+    "rupture": "^0.7.1",
+    "yargs-parser": "20.2.4"
   },
   "resolutions": {
     "lodash": "4.17.19",
