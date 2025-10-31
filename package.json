@@ -1,0 +1,43 @@
+{
+  "name": "victorigortemplate",
+  "version": "1.0.0",
+  "description": "My jekyll blog template.",
+  "main": "gulpfile.js",
+  "keywords": [
+    "frontend",
+    "blog",
+    "css",
+    "stylus",
+    "gulp",
+    "jekyll",
+    "js"
+  ],
+  "author": "Victor Igor",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer-stylus": "^1.0.0",
+    "browser-sync": "^2.26.12",
+    "grunt": "^1.5.2",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.4.3",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-stylus": "^2.7.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "bl": "4.0.3",
+    "jeet": "^7.2.0",
+    "kouto-swiss": "^1.1.0",
+    "lodash": "4.17.21",
+    "rupture": "^0.7.1",
+    "yargs-parser": "20.2.4"
+  },
+  "resolutions": {
+    "lodash": "4.17.19",
+    "yargs-parser": "18.1.3",
+    "bl": "2.2.1",
+    "object-path": "0.11.5",
+    "axios": "0.21.1"
+  }
+}
