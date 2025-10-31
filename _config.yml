@@ -6,7 +6,7 @@ url: ""
 
 # User settings
 username: Oliver Bailey
-user_title: Devops/Infrasrtucture Engineer
+user_title: Devops/Infrastructure Engineer
 email: publicsite@obailey.co.uk
 github_username:  OliverBailey
 linkedin_public_url: oliver-bailey-5687349a # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
@@ -47,21 +47,14 @@ links:
       url: https://www.github.com/oliverbailey
       new_tab: true
       key_trigger: g
-    - title: gists
-      url: https://gist.github.com/OliverBailey/
-      key_trigger: t  
     - title: search
       url: ""
       key_trigger: s #WARNING: search only works with "s"
 
 # projects in header index
 projects:
-  - name: public_site_setup
-    url: https://github.com/OliverBailey/oliverbailey.github.io
-  - name: gists
-    url: https://gist.github.com/OliverBailey/
-  #- name: generator-capybara
-    #url: https://github.com/victorvoid/generator-capybara 
+  - name: RuneLite Timelapse Creator
+    url: https://github.com/OliverBailey/runelite-timelapse
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
